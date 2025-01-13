@@ -8,7 +8,9 @@ I’m a Software Engineering graduate passionate about web development and techn
 🛠️ Technical Skills
 
  •	Languages: JavaScript, HTML, CSS
+ 
  •	Frameworks: React.js, Next.js, Node.js, Express.js
+ 
  •	Tools: WordPress, Shopify, MySQL, GitHub
 
 Additional Skills
