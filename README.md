@@ -8,13 +8,13 @@ I’m a Software Engineering graduate passionate about web development and techn
 🛠️ Technical Skills
 
  •	Languages: JavaScript, HTML, CSS
-	•	Frameworks: React.js, Next.js, Node.js, Express.js
-	•	Tools: WordPress, Shopify, MySQL, GitHub
+ •	Frameworks: React.js, Next.js, Node.js, Express.js
+ •	Tools: WordPress, Shopify, MySQL, GitHub
 
 Additional Skills
-	•	Conversion Rate Optimization (CRO)
-	•	User Acceptance Testing (UAT)
-	•	SEO Optimization
+ •	Conversion Rate Optimization (CRO)
+ •	User Acceptance Testing (UAT)
+ •	SEO Optimization
 
 
  
@@ -39,19 +39,20 @@ Engineering Consultant Group (ECG) | May 2021 - August 2021
 
 Amal Educational ( http://amaledu.com )
 
-Built a platform to assist students with university search and applications using React and Next.js.
+- Built a platform to assist students with university search and applications using React and Next.js.
 
 Thomson Health (https://my-shop.thomsonhealth.com)
 
-Contributed to an e-commerce platform with responsive design and optimized performance for a seamless user experience.
+- Contributed to an e-commerce platform with responsive design and optimized performance for a seamless user experience.
 
 Cileo Blog ( https://cileobeauty.vercel.app )
 
-Built a responsive blog platform leveraging React and WordPress REST API for content delivery and user engagement.
+- Built a responsive blog platform leveraging React and WordPress REST API for content delivery and user engagement.
 
 QR Code Queue Management System
 
-Streamlined queue management using QR codes to enhance efficiency.
+- Streamlined queue management using QR codes to enhance efficiency.
+
 
 
 
