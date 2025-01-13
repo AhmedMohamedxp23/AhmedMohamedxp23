@@ -28,17 +28,21 @@ Additional Skills
 Web Developer Intern
 Edense Sdn. Bhd. | July 2024 - October 2024
 
-	•	Collaborated with teams to analyze project requirements and implement responsive designs.
-	•	Developed and maintained web applications using modern technologies.
-	•	Conducted User Acceptance Testing, debugging, and optimization for high-quality performance.
-	•	Implemented Conversion Rate Optimization (CRO) techniques to enhance user experiences and drive conversions.
+•	Collaborated with teams to analyze project requirements and implement responsive designs.
+
+•	Developed and maintained web applications using modern technologies.
+
+•	Conducted User Acceptance Testing, debugging, and optimization for high-quality performance.
+
+•	Implemented Conversion Rate Optimization (CRO) techniques to enhance user experiences and drive conversions.
 
 
 Software/Hardware Technical Support
 Engineering Consultant Group (ECG) | May 2021 - August 2021
 
-	•	Configured devices, installed drivers, and optimized system performance.
-	•	Assembled PCs, troubleshot hardware issues, and resolved technical problems efficiently.
+•	Configured devices, installed drivers, and optimized system performance.
+
+•	Assembled PCs, troubleshot hardware issues, and resolved technical problems efficiently.
 
 
 
