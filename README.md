@@ -14,8 +14,11 @@ I’m a Software Engineering graduate passionate about web development and techn
  •	Tools: WordPress, Shopify, MySQL, GitHub
 
 Additional Skills
+
  •	Conversion Rate Optimization (CRO)
+ 
  •	User Acceptance Testing (UAT)
+ 
  •	SEO Optimization
 
 
