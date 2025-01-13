@@ -22,6 +22,7 @@ Additional Skills
  •	SEO Optimization
 
 
+
  
 💼 Professional Experience
 
@@ -43,6 +44,8 @@ Engineering Consultant Group (ECG) | May 2021 - August 2021
 •	Configured devices, installed drivers, and optimized system performance.
 
 •	Assembled PCs, troubleshot hardware issues, and resolved technical problems efficiently.
+
+
 
 
 
@@ -68,9 +71,13 @@ QR Code Queue Management System
 
 
 🏆 Achievements & Certifications
-	•	Bachelor of Computer Science (Honours): Software Engineering, Multimedia University (2024)
-	•	Web Development BootCamp: Certified (2023)
-	•	Diploma of Higher Education: Information and Technology, Inti International University (2021)
+
+•	Bachelor of Computer Science (Honours): Software Engineering, Multimedia University (2024)
+
+•	Web Development BootCamp: Certified (2023)
+
+•	Diploma of Higher Education: Information and Technology, Inti International University (2021)
+
 
 
 Let’s build something amazing together! Feel free to explore my repositories and connect with me.
