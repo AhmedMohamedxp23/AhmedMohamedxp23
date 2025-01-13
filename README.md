@@ -37,15 +37,15 @@ Engineering Consultant Group (ECG) | May 2021 - August 2021
 
  🚀 Featured Projects
 
-Amal Educational
+Amal Educational ( http://amaledu.com )
 
 Built a platform to assist students with university search and applications using React and Next.js.
 
-Thomson Health
+Thomson Health (https://my-shop.thomsonhealth.com)
 
 Contributed to an e-commerce platform with responsive design and optimized performance for a seamless user experience.
 
-Cileo Blog
+Cileo Blog ( https://cileobeauty.vercel.app )
 
 Built a responsive blog platform leveraging React and WordPress REST API for content delivery and user engagement.
 
