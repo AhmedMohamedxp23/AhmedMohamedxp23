@@ -45,8 +45,6 @@
 
 **[Thomson Health](https://my-shop.thomsonhealth.com)** — e-commerce platform with responsive design and optimized performance for a seamless user experience
 
-**[Cileo Blog](https://cileobeauty.vercel.app)** — responsive blog platform leveraging React and the WordPress REST API for content delivery and user engagement
-
 **QR Code Queue Management System** — streamlined queue management using QR codes to enhance efficiency
 
 #### 🏆 Achievements & Certifications
